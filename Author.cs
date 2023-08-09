@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp17
+namespace ConsoleApp20
 {
-     class Employee
+    internal class Author
     {
-       
-        public string name { get; set; }
-        public string department { get;set; }
     }
 }
